@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue",
+    "description": "Customer unable to login with correct credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 2,
+    "title": "Payment not processed",
+    "description": "Customer reported payment failure during checkout.",
+    "customer": "Jane Smith",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 3,
+    "title": "Feature request: Dark mode",
+    "description": "Customer requested a dark mode feature for better usability.",
+    "customer": "Michael Brown",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 4,
+    "title": "Bug in mobile app",
+    "description": "The app crashes on startup in Android version 14.",
+    "customer": "Emily Davis",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 5,
+    "title": "Invoice not received",
+    "description": "Customer did not receive invoice after purchase.",
+    "customer": "Daniel Wilson",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-09-19"
+  },
+  {
+    "id": 6,
+    "title": "Email notifications not working",
+    "description": "Customer not receiving system-generated emails.",
+    "customer": "Sophia Martinez",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 7,
+    "title": "UI alignment issue",
+    "description": "Dashboard widgets are overlapping in Safari browser.",
+    "customer": "David Anderson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-18"
+  },
+  {
+    "id": 8,
+    "title": "Password reset link expired",
+    "description": "Password reset link expired immediately after receiving.",
+    "customer": "Olivia Johnson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-24"
+  },
+  {
+    "id": 9,
+    "title": "Subscription plan upgrade failed",
+    "description": "Customer attempted to upgrade but transaction failed.",
+    "customer": "Liam White",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 10,
+    "title": "Report export not generating",
+    "description": "Export to PDF option is not working for reports.",
+    "customer": "Ava Thomas",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": 11,
+    "title": "Two-factor authentication issue",
+    "description": "2FA code not accepted on login page.",
+    "customer": "James Taylor",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 12,
+    "title": "Delayed system response",
+    "description": "Customer reports slow performance on dashboard.",
+    "customer": "Isabella Lee",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-22"
+  }
+]

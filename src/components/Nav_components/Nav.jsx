@@ -2,7 +2,7 @@ import React from 'react'
 import Logo from '../../assets/logo.png'
 const Nav = () => {
   return (
-     <div style={{width:"100%",boxShadow:"0px 0px 10px gray",backgroundColor:"white",padding:"10px 0px",position:"fixed",top:"0"}}>
+     <div style={{width:"100%",boxShadow:"0px 0px 10px gray",backgroundColor:"white",padding:"10px 0px",position:"fixed",top:"0",zIndex:"100"}}>
         <div className="nav_bar">
         <div className="logo">
             <img src={Logo} alt="Logo" />
