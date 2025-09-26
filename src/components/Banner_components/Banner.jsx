@@ -2,11 +2,11 @@ import React from 'react'
 import Progress from './Progress'
 import Resolved from './Resolved'
 
-const Banner = () => {
+const Banner = ({ progress ,resolvedCount}) => {
   return (
     <div className="banner">
-        <Progress></Progress>
-        <Resolved></Resolved>
+        <Progress progress={progress}></Progress>
+        <Resolved resolvedCount={resolvedCount}></Resolved>
     </div>
   )
 }
