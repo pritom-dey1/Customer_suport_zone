@@ -70,20 +70,25 @@ JSX (JavaScript XML) allows you to write HTML-like syntax in React components. I
 - Returns an array: `[state, setState]`.  
 ### Sharing State Between Components
 
-Lift the state up to a common parent and pass it down as props to child components.
+- Lift the state up to a common parent and pass it down as props to child components.
 ### Event Handling
 
-Events in React are handled using camelCase syntax and passing functions as callbacks
+- Events in React are handled using camelCase syntax and passing functions as callbacks
 ### 🔔 Challenge Requirements Implemented
 
-React-Toastify used for all alerts.
+- React-Toastify used for all alerts.
 
-Task Completion Logic:
+- Task Completion Logic:
 
-Clicking Complete Button removes the ticket from Task Status.
+- Clicking Complete Button removes the ticket from Task Status.
 
-Adds it to Resolved List.
+- Adds it to Resolved List.
 
-Decreases In Progress count and increases Resolved count.
+- Decreases In Progress count and increases Resolved count.
 
-Removes ticket from Customer Tickets list.
+- Removes ticket from Customer Tickets list.
+
+
+### LICENSE
+- THIS IS AN ASSIGNMENT OF PROGRAMMING HERO
+- CREATED BY PRITOM DEY
